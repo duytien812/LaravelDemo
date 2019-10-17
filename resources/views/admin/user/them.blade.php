@@ -43,11 +43,11 @@
                             </div>
                             <div class="form-group">
                                 <label>Mật khẩu</label>
-                                <input type="password" class="form-control" name="password" placeholder="Nhập lại mật khẩu" />
+                                <input type="password" class="form-control" name="password" placeholder="Nhập mật khẩu" />
                             </div>
                             <div class="form-group">
                                 <label>Nhập lại mật khẩu</label>
-                                <input type="password" class="form-control" name="passwordAgain" placeholder="Nhập mật khẩu" />
+                                <input type="password" class="form-control" name="passwordAgain" placeholder="Nhập lại mật khẩu" />
                             </div>
                             <div class="form-group">
                                 <label>Quyền người dùng </label>
