@@ -29,6 +29,6 @@ class User extends Authenticatable
 
     public function comment(){
 
-        return $this->hasMany('App/Comment','idUser','id');
+        return $this->hasMany('App\Comment','id','idUser');
     }
 }
